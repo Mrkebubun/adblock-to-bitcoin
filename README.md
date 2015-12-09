@@ -8,6 +8,10 @@ into
 
 <img src='http://bits.owocki.com/1E073o0v2L3v/Image%202015-12-09%20at%207.31.33%20AM.png' />
 
+## Why
+
+Thesis of this project is that _publishers that have a loyal following might be able to get close to PPC unit economics with bitcoin donations_.
+
 # Forked from
 
 Special thanks to these guys, who did much of the work and upon whom this project is based:
@@ -35,6 +39,14 @@ Demo code is at [https://github.com/owocki/adblock-to-bitcoin/blob/master/demo.h
 ## Supported Browsers / Adblockers
 
 Demo code is tested with Adblock Plus and uBlock on Google Chrome on a Mac.  Any other combinations, use at your own risk (and this is open source software, feel free to submit PRs).
+
+# How you can help
+
+* Engineer? * -- Can you help with cross-browser compatibility and bringing this project to multiple browsers?
+* Publisher? * -- We need DATA!  The thesis behind this project is that for brands that have a loyal following, we might be able to get close to PPC unit economics with bitcoin donations.  [Contact me on twitter](http://twitter.com/owocki)
+* Data Scientist? * See above ^^, we need DATA!
+* Bitcoin Enthusiast? * Help us grow the real-world use cases for BTC.  If you see this tool on a website, donate.
+* Media/Publishing Enthusiast? * Help us migrate the publishing industry into the 21st century. If you see this tool on a website, donate.
 
 # Donate
 
