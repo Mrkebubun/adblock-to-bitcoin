@@ -17,7 +17,7 @@ Special thanks to these guys, who did much of the work and upon whom this projec
 
 #Demo
 
-Demo code is at [http://experiments.owocki.com/adblock-to-bitcoin/blob/master/demo.html](http://experiments.owocki.com/adblock-to-bitcoin/blob/master/demo.html) and live demo is at [http://experiments.owocki.com/adblock-to-bitcoin/demo.html](http://experiments.owocki.com/adblock-to-bitcoin/)
+Demo code is at [https://github.com/owocki/adblock-to-bitcoin/blob/master/demo.html](https://github.com/owocki/adblock-to-bitcoin/blob/master/demo.html) and live demo is at [http://experiments.owocki.com/adblock-to-bitcoin/demo.html](http://experiments.owocki.com/adblock-to-bitcoin/demo.html)
 
 # Donate
 
