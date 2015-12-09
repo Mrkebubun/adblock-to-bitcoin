@@ -45,8 +45,12 @@ Demo code is tested with Adblock Plus and uBlock on Google Chrome on a Mac.  Any
 * _Engineer?_ Can you help with cross-browser compatibility and bringing this project to multiple browsers?
 * _Publisher?_ We need DATA!  The thesis behind this project is that for brands that have a loyal following, we might be able to get close to PPC unit economics with bitcoin donations.  [Contact me on twitter](http://twitter.com/owocki)
 * _Data Scientist?_ See above ^^, we need DATA!
-* _Bitcoin Enthusiast?_ Help us grow the real-world use cases for BTC.  If you see this tool on a website, donate.
+* _Bitcoin Enthusiast?_ Help us grow the universe ofreal-worlduse cases for BTC.  If you see this tool on a website, donate.
 * _Media/Publishing Enthusiast?_ Help us migrate the publishing industry into the 21st century.  Refer `adblock-to-bitcoin` to a publisher-friend. If you see this tool on a website, donate.
+
+# Get in touch
+
+[Contact @owocki on twitter](http://twitter.com/owocki).  If there is enough interest, I will set up a google group for the project.
 
 # Donate
 
