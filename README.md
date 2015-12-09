@@ -32,6 +32,10 @@ git clone https://github.com/miohtama/bitcoinaddress.js.git
 
 Demo code is at [https://github.com/owocki/adblock-to-bitcoin/blob/master/demo.html](https://github.com/owocki/adblock-to-bitcoin/blob/master/demo.html) and live demo is at [http://experiments.owocki.com/adblock-to-bitcoin/demo.html](http://experiments.owocki.com/adblock-to-bitcoin/demo.html)
 
+## Supported Browsers / Adblockers
+
+Demo code is tested with Adblock Plus and uBlock on Google Chrome on a Mac.  Any other combinations, use at your own risk (and this is open source software, feel free to submit PRs).
+
 # Donate
 
 You can donate to the author at `1A3KJ7f3YAS9jvhPjotLEzEMd1dNKZ9EPE`.  Suggested donation for use on your ad-supported site: *0.045 BTC*
