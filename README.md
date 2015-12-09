@@ -10,11 +10,7 @@ into
 
 and
 
-<img src='http://bits.owocki.com/1x1n2W400O1S/Image%202015-12-09%20at%2011.07.16%20AM.png' />
-
-into
-
-<img src='http://bits.owocki.com/3J050A2b1Q0y/Image%202015-12-09%20at%2011.10.53%20AM.png' />
+<img src='http://bits.owocki.com/1x1n2W400O1S/Image%202015-12-09%20at%2011.07.16%20AM.png' style="display:inline" /> <span style="padding-top:-150px">into</span> <img src='http://bits.owocki.com/3J050A2b1Q0y/Image%202015-12-09%20at%2011.10.53%20AM.png' style="display:inline" />
 
 ## Why
 
