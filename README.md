@@ -8,6 +8,14 @@ into
 
 <img src='http://bits.owocki.com/1E073o0v2L3v/Image%202015-12-09%20at%207.31.33%20AM.png' />
 
+and
+
+<img src='http://bits.owocki.com/1x1n2W400O1S/Image%202015-12-09%20at%2011.07.16%20AM.png' />
+
+into
+
+<img src='http://bits.owocki.com/0p0c2W0J1K03/Image%202015-12-09%20at%2011.09.07%20AM.png' />
+
 ## Why
 
 Thesis of this project is that _publishers that have a *loyal* following might be able to get close to PPC unit economics with bitcoin donations_.
