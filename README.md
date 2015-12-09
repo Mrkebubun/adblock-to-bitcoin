@@ -23,5 +23,7 @@ Demo code is at [http://experiments.owocki.com/adblock-to-bitcoin/blob/master/de
 
 You can donate to the author at `1A3KJ7f3YAS9jvhPjotLEzEMd1dNKZ9EPE`.  Suggested donation for use on your ad-supported site: *0.045 BTC*
 
+<img src='http://bits.owocki.com/380X0M0q1L2K/Image%202015-12-09%20at%207.35.04%20AM.png' />
+
 <!-- Google Analytics --> 
 <img src='https://ga-beacon.appspot.com/UA-1014419-15/owocki/adblock-to-bitcoin' style='width:1px; height:1px;' >
