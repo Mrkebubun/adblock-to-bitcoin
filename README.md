@@ -2,15 +2,23 @@
 
 A project that turns ads into bitcoin donation solicitations when adblock is enabled.  Turns
 
+#### Example 1
+
 <img src='http://bits.owocki.com/2u1K1Z0R3w0k/Image%202015-12-09%20at%207.31.49%20AM.png' />
 
 into
 
 <img src='http://bits.owocki.com/1E073o0v2L3v/Image%202015-12-09%20at%207.31.33%20AM.png' />
 
-and
+#### Example 2
 
 <img src='http://bits.owocki.com/1x1n2W400O1S/Image%202015-12-09%20at%2011.07.16%20AM.png' style="display:inline" /> <span style="padding-top:-150px">into</span> <img src='http://bits.owocki.com/3J050A2b1Q0y/Image%202015-12-09%20at%2011.10.53%20AM.png' style="display:inline" />
+
+#### Example 3
+
+<img src='http://bits.owocki.com/18103U3G3s2Y/Image%202015-12-09%20at%2011.17.30%20AM.png' style="display:inline" /> <span style="padding-top:-150px">into</span> <img src='http://bits.owocki.com/1P20443Y1x1o/Image%202015-12-09%20at%2011.16.50%20AM.png' style="display:inline" />
+
+
 
 ## Why
 
