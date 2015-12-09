@@ -14,7 +14,7 @@ and
 
 into
 
-<img src='http://bits.owocki.com/0p0c2W0J1K03/Image%202015-12-09%20at%2011.09.07%20AM.png' />
+<img src='http://bits.owocki.com/3J050A2b1Q0y/Image%202015-12-09%20at%2011.10.53%20AM.png' />
 
 ## Why
 
