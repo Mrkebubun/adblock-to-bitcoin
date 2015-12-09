@@ -8,7 +8,7 @@ A project that turns ads into bitcoin donation solicitations when adblock is ena
 
 into
 
-<img src='http://bits.owocki.com/1E073o0v2L3v/Image%202015-12-09%20at%207.31.33%20AM.png' />
+<img src='http://bits.owocki.com/0h0d0U1f0f3R/Image%202015-12-09%20at%2011.19.02%20AM.png' />
 
 #### Example 2
 
