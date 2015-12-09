@@ -15,6 +15,19 @@ Special thanks to these guys, who did much of the work and upon whom this projec
 * https://github.com/sitexw/FuckAdBlock
 * https://github.com/miohtama/bitcoinaddress.js
 
+# Try it
+
+On a mac:
+
+```bash
+
+git clone git@github.com:owocki/adblock-to-bitcoin.git
+cd adblock-to-bitcoin
+git clone https://github.com/sitexw/FuckAdBlock.git
+git clone https://github.com/miohtama/bitcoinaddress.js.git
+
+```
+
 #Demo
 
 Demo code is at [https://github.com/owocki/adblock-to-bitcoin/blob/master/demo.html](https://github.com/owocki/adblock-to-bitcoin/blob/master/demo.html) and live demo is at [http://experiments.owocki.com/adblock-to-bitcoin/demo.html](http://experiments.owocki.com/adblock-to-bitcoin/demo.html)
