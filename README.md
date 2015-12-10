@@ -39,8 +39,8 @@ On a mac:
 
 git clone git@github.com:owocki/adblock-to-bitcoin.git
 cd adblock-to-bitcoin
-git clone https://github.com/sitexw/FuckAdBlock.git
-git clone https://github.com/miohtama/bitcoinaddress.js.git
+git submodule init
+git submodule update
 
 ```
 
