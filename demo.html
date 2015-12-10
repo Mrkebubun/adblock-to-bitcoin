@@ -341,4 +341,17 @@
     <!-- We include Bootstrap after demo.js which bundles jQuery -->
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
 
+<script>
+
+// attach the document URL to qr-code generating attributes such that it will be sent by default in bitcoin payments.
+// this will allow publishers to know what content is generating BTC for them.
+$(document).ready(function(){
+    $('.bitcoin-address, .bitcoin-address-container').each(function(e){
+        $(this).attr('data-bc-message',document.location);
+    });
+
+});
+
+</script>
+
 </body>
